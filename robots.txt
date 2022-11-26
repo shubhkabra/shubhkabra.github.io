@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://shubhkabra.github.io/sitemap.xml
+Sitemap: https://shubhkabra.github.io/shubhkabra.github.io/sitemap-index.xml
 Host: https://shubhkabra.github.io
