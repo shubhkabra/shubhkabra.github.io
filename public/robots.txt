@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://shubhkabra.github.io/shubhkabra.github.io/sitemap-index.xml
+Host: https://shubhkabra.github.io
