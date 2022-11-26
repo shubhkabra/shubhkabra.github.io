@@ -10,7 +10,7 @@
   "keywords": [
     "gatsby"
   ],
-  "homepage": "https://shubhkabra.github.io/shubhkabra.github.io",
+  "homepage": ".",
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
